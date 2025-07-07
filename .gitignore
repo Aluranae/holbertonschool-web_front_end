@@ -62,4 +62,5 @@ nbdist/
 # === Logs & temporary files ===
 *.log
 *.tmp
-*.swp
+*.swpCSS_advanced/
+CSS_advanced/
