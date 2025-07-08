@@ -617,6 +617,6 @@ footer ul {
 }
 
 /* Task 23 - Fix issues for dark theme */
-.social-link svg {
+.social-link > svg {
     fill: var(--text-color);
 }
