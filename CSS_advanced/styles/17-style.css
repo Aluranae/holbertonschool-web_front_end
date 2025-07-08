@@ -471,6 +471,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 
+/* Task 17 */
+.section {
+    padding: var(--section-padding);
+}
+
 /* Task 10, 17 */
 .section-header {
     text-align: var(--section-header-align);
@@ -490,11 +495,6 @@ h1, h2, h3, h4, h5, h6 {
 .container {
     width: 960px;
     margin: auto;
-}
-
-/* Task 17 */
-.section {
-    padding: var(--section-padding);
 }
 
 /* Task 17*/
