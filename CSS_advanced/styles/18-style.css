@@ -522,7 +522,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Task 18 - Customizing the navbar */
-nav {
+.nav {
     margin: 0;
     padding: 0;
     list-style: none;
