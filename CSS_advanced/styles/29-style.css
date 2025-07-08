@@ -731,7 +731,7 @@ footer ul {
 }
 
 /* Task 29 - Styling and custom properties for the nav */
-nav .nav-link::before {
+.nav .nav-link::before {
     content: "";
     position: absolute;
     top: 0;
@@ -742,7 +742,7 @@ nav .nav-link::before {
 }
 
 /* Task 29 - Styling and custom properties for the nav */
-nav .nav-item:hover .nav-link::before {
+.nav .nav-item:hover .nav-link::before {
     background-color: var(--color-primary);
     width: 100%;
 }
