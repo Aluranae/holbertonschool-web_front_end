@@ -463,14 +463,6 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--color-primary);
 }
 
-/* Task 2, 3, 11 */
-.section-tagline {
-    color: var(--color-primary);
-    font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
-    font-weight: var(--font-weight-bold);
-}
-
 /* Task 17 */
 .section {
     padding: var(--section-padding);
@@ -480,6 +472,25 @@ h1, h2, h3, h4, h5, h6 {
 .section-header {
     text-align: var(--section-header-align);
     padding: var(--section-header-padding);
+}
+
+/* Task 17*/
+.section-body {
+    padding: var(--section-body-padding);
+}
+
+/* Task 17 */
+.section-footer {
+    padding: var(--section-footer-padding);
+    text-align: var(--section-footer-align);
+}
+
+/* Task 2, 3, 11 */
+.section-tagline {
+    color: var(--color-primary);
+    font-family: var(--font-family-title);
+    text-transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
 }
 
 /* Task 12 */
@@ -498,17 +509,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Task 17*/
-.section-body {
-    padding: var(--section-body-padding);
-}
-
-/* Task 17 */
-.section-footer {
-    padding: var(--section-footer-padding);
-    text-align: var(--section-footer-align);
-}
-
-/* Task 17*/
-footer {
+.footer {
     padding: var(--footer-padding);
 }
