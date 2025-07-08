@@ -841,6 +841,6 @@ nav .nav-item:hover .nav-link::before {
 }
 
 /* Task 32 - Incorporating transitions */
-nav .nav-link::before {
+.nav .nav-link::before {
     transition: var(--transition-duration) var(--transition-cubic-bezier)
 }
