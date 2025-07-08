@@ -754,7 +754,7 @@ nav .nav-item:hover .nav-link::before {
 }
 
 /* Task 30 - Fix the works section */
-.card-work .card-image img {
+.card-work .card-image img{
     height: 30rem;
     width: 100%;
     object-fit: cover;
@@ -792,7 +792,7 @@ nav .nav-item:hover .nav-link::before {
 }
 
 /* Task 30 - Fix the works section */
-.card-title .card-work a::after {
+.card-work .card-title a::after {
     position: absolute;
     top: 0;
     left: 0;
